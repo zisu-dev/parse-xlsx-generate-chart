@@ -1,0 +1,7 @@
+#app {
+  @apply flex;
+}
+
+input {
+  @apply border-2 hover:(border-dark-900 border-dashed) active:(border-dark-900 border-solid) m-2;
+}
